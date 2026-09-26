@@ -6,6 +6,7 @@ title: Welcome to my blog!
 
 <details>
   ## Facts About Me
+  
   1. I graduated Magna Cum Laude in UST with BS Electronics Engineering
-  2. My favorite food is Sisig
+  2. My favorite food is Sisig.
 </details>
